@@ -357,3 +357,5 @@ The content was created by the developerwith help from Gemini and Copilot. The t
 
 ## Acknowledgement
 Thank you to those I spoke at [Turkish Baths 1877](https://turkishbaths1877.com/) and the **outstanding** team a Code InsCode Institute. 
+
+[![CodeQL Advanced](https://github.com/kash-dotcom/oakdale-spa/actions/workflows/codeql.yml/badge.svg)](https://github.com/kash-dotcom/oakdale-spa/actions/workflows/codeql.yml)
